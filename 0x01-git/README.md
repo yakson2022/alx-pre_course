@@ -1,1 +1,1 @@
-my first directory
+i am a software emgineer at alx
